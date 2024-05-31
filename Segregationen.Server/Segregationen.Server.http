@@ -1,0 +1,6 @@
+@Segregationen.Server_HostAddress = http://localhost:5099
+
+GET {{Segregationen.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
